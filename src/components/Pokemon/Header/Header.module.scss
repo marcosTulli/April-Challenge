@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  .title {
+    font-size: 25px;
+    display: flex;
+    width: 120px;
+    img {
+      width: 30px;
+      height: 30px;
+      padding-right: 0.5em;
+    }
+  }
+}
